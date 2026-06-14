@@ -92,6 +92,7 @@ Current direction:
 
 - Use tall mirrors with simple black frames.
 - Rounded rectangle mirrors are preferred because they soften the room while staying modern.
+- **Mandatory:** Include diffused light behind the mirrors. The mirror/electrical plan must support a soft, even backlit glow behind the mirrors.
 
 ### Vanity Lighting
 
@@ -101,6 +102,7 @@ Current decision:
 - Keep the lights simple, modern, and minimal.
 - Use warm white lighting, approximately 2700K–3000K.
 - Avoid overly decorative fixtures.
+- Diffused mirror backlighting is mandatory and should be treated as part of the vanity lighting plan, not an optional upgrade.
 
 ## Shower Construction Requirements
 
@@ -238,7 +240,7 @@ Recommended approach:
 - Vanity: white cabinet with existing black granite countertop.
 - Sinks: white vessel sinks.
 - Hardware: matte black throughout.
-- Lighting: black horizontal bar lights above mirrors.
+- Lighting: black horizontal bar lights above mirrors plus mandatory diffused light behind the mirrors.
 
 This should create one connected style while keeping the bathroom bright, airy, modern, and timeless.
 
@@ -257,6 +259,7 @@ This should create one connected style while keeping the bathroom bright, airy, 
 | Shower floor | Coordinating smaller porcelain mosaic for slope and grip |
 | Hardware finish | Matte black throughout |
 | Mirrors | Tall black-framed rounded rectangle mirrors |
+| Mirror lighting | Diffused light behind mirrors is mandatory |
 | Vanity lighting | Black horizontal bar lights above mirrors |
 | Shower glass | Frameless glass with black hardware |
 | Shower niche | Long recessed niche, subtle lighting if practical |
@@ -315,8 +318,8 @@ Use this section to track possible products before buying.
 | Shower wall tile | TBD | Large-format bright porcelain | TBD | Soft white / warm ivory | Direction selected, product open |
 | Shower floor tile | TBD | Coordinating porcelain mosaic | TBD | Grip + slope | Direction selected, product open |
 | Grout | TBD | Epoxy / high-performance | TBD | Wet-area durability | Open |
-| Mirror | TBD | Black framed, rounded rectangle | TBD | Modern / clean | Direction selected, product open |
-| Lighting | TBD | Black horizontal bar lights | TBD | Warm white 2700K–3000K | Direction selected, product open |
+| Mirror | TBD | Black framed, rounded rectangle | TBD | Must support diffused backlighting behind mirrors | Direction selected, product open |
+| Lighting | TBD | Black horizontal bar lights + diffused mirror backlighting | TBD | Warm white 2700K–3000K; backlighting mandatory | Direction selected, product open |
 | Hardware | TBD | Matte black | TBD | Consistent finish throughout | Finish selected, product open |
 | Shower glass | TBD | Frameless with black hardware | TBD | Clean modern look | Direction selected, product open |
 
@@ -363,7 +366,7 @@ Use this section to track possible products before buying.
 ### 3. Rough-In / Prep
 
 - Plumbing adjustments
-- Electrical and lighting updates
+- Electrical and lighting updates, including wiring/placement for mandatory diffused mirror backlighting
 - Ventilation upgrades if needed
 - Replace inadequate or damaged insulation
 - Repair framing, walls, and subfloor as needed
@@ -394,6 +397,7 @@ Use this section to track possible products before buying.
 
 | Date | Update | Notes |
 |---|---|---|
+| 2026-06-14 | Mirror backlighting requirement added | Added mandatory diffused light behind the mirrors to the mirror section, vanity lighting section, known decisions, product tracking, and rough-in notes |
 | 2026-06-13 | README expanded | Added known design direction, decisions, open questions, tracking sections, and project phases |
 | 2026-06-13 | Updated current design decisions | Documented white cabinet, existing black granite countertop, matte black hardware throughout, black horizontal bar lights, large-format bathroom floor tile, large bright porcelain shower wall tile, coordinating shower floor mosaic, and frameless shower with black hardware |
 | 2026-06-13 | Shower priorities organized | Added demolition inspection, structural prep, waterproofing, flood testing, and leak-prevention plan |
